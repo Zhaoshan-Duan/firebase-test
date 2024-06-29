@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729150272926",
+    "project_id": "fir-test-2abe5",
+    "storage_bucket": "fir-test-2abe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729150272926:android:3c77dc365f538ce9f5128f",
+        "android_client_info": {
+          "package_name": "org.jojo.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2INiAnBJE9zzXKeX_MzSUB1RadctqbUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
